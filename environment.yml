@@ -7,3 +7,4 @@ dependencies:
   - pandas=0.23.4
   - matplotlib=2.2.3
   - octave_kernel
+  - papermill
